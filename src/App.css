@@ -1,7 +1,13 @@
 .App {
   text-align: center;
+  /* font-family: 'ZCOOL KuaiLe', cursive; */
 }
 
+h1 {
+  font-family: 'ZCOOL KuaiLe', cursive;
+  font-size: 28px;
+  color: greenyellow;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -26,6 +32,11 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.monster-name {
+  color: green;
+  font-size: 2rem;
 }
 
 @keyframes App-logo-spin {
